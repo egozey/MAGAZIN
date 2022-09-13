@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E128" />
+          <option value="E502" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="doska.btn_bd_of1" />
+          <option value="doska.btn_bd_of2" />
+          <option value="doska.btn_bd_of3" />
+          <option value="doska.btn_bd_of4" />
+          <option value="doska.btn_bd_of5" />
+          <option value="doska.btn_bd_of6" />
+          <option value="doska.btn_bd_sl1" />
+          <option value="doska.btn_bd_sl2" />
+          <option value="DPNC.time_tablo.time_label" />
+          <option value="DPNC.time_tablo.data_label" />
+          <option value="DPNC.clock.time_dpnc" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
